@@ -1,4 +1,4 @@
-# eCommerce-Furniture-website
+# MAMA CERAMIC IS A ONLINE MARKETPLACE FOR CERAMIC SHOPPING
 eCommerce website using PHP and frontend programming languages.
 This is an eCommerce website (Furniture shop) made using PHP, HTML, CSS, Javascript, Jquery as the main programming languages.
 
