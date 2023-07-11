@@ -6,6 +6,13 @@ Mama ceramics is a online marketplace for a tiles and ceramics Shopping.
 ECommerce website using PHP and frontend programming languages.
 This is an eCommerce website (Furniture shop) made using PHP, HTML, CSS, Javascript, Jquery as the main programming languages.
 
+## Screenshots
+
+![Mama ceramic home page](https://github.com/JAY1820/Icon_and_gif/blob/main/mama%20ceramic%20image%201.png)
+
+
+![Mama ceramic home pag](https://github.com/JAY1820/Icon_and_gif/blob/main/mama%20ceramic%20image%201.png)
+
 
 Functionality included:-
 1) Add to Cart
